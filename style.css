@@ -17,7 +17,7 @@ div{
 }
 button{
     -webkit-tap-highlight-color: transparent;
-    max-width:350px;
+   
     border-radius: 5px ;
     padding: 7px 40px;
     box-shadow: 3px 3px 1px black;
@@ -37,7 +37,6 @@ button{
 }button:hover{
     /* background-color:rgb(0, 0, 172); */
     box-shadow: 0px 0px 15px rgb(0, 0, 0);
-    background-color: silver;
     text-shadow: 5px 5px 1px black;
     color: white;
 
@@ -50,3 +49,4 @@ h2{
     font-size: xx-large;
 
 }
+
